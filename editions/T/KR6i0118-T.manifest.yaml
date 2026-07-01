@@ -1,0 +1,286 @@
+canonical_identifier: bkk:krp/KR6i0118/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0118/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說除蓋障菩薩所問經
+  identifiers:
+    krp: KR6i0118
+    cbeta: T14n0489
+    cbeta_old_id: T14n0489
+    authorityid: CA0000505
+    json_key: T0489
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0489.xml
+    old_id: T14n0489
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0118_000-T.yaml, hash: 'sha256:6c7105be50341767500090e23ee2ca1997a8202a2b79e50d2a25d56885854565'}
+  - {seq: 1, filename: KR6i0118_001-T.yaml, hash: 'sha256:8cd4867efeef8a78a00b33b2dbecf198d650fd16098bedc1c2865874da9d311d'}
+  - {seq: 2, filename: KR6i0118_002-T.yaml, hash: 'sha256:de79e7493219a80053e07e024b6d2322a8ce6d5158ebe4e575e7e9eaebd5fe08'}
+  - {seq: 3, filename: KR6i0118_003-T.yaml, hash: 'sha256:e0a721238770e3e1cdef1ff7c439c3b24d65ad6e507e7ff111a0a94f04efb720'}
+  - {seq: 4, filename: KR6i0118_004-T.yaml, hash: 'sha256:4df77bd96b3f286358dead0502c9d358e5e6927a7478bc4730f18e27c28b1299'}
+  - {seq: 5, filename: KR6i0118_005-T.yaml, hash: 'sha256:dd72a25baef4b1f1a3afae0e1556cd8c8e2710eaec28be34e6c1962afee824f8'}
+  - {seq: 6, filename: KR6i0118_006-T.yaml, hash: 'sha256:0d3122563034fd1bc2496f2bc702d33e7e5facb87c5856e2335ef3724ca5a714'}
+  - {seq: 7, filename: KR6i0118_007-T.yaml, hash: 'sha256:f11be5c5a2ba58d852595fad4596e79c3a07e63c29558387b4dc91f3430fd773'}
+  - {seq: 8, filename: KR6i0118_008-T.yaml, hash: 'sha256:b806dfa984f6e17bb9ea1acee0488333ced82a6fffe0f5ded4b3262c8242f7d8'}
+  - {seq: 9, filename: KR6i0118_009-T.yaml, hash: 'sha256:1fe90b1aecc73099998b2fce237a94a91f5cc2999af3eb6a36120cb6c9c7d292'}
+  - {seq: 10, filename: KR6i0118_010-T.yaml, hash: 'sha256:1370413821e387a6a1e04ddeb094c131d972335dfdc733e0711d1e5f29e019c4'}
+  - {seq: 11, filename: KR6i0118_011-T.yaml, hash: 'sha256:7c478abc831cc711e994afce01ddf0a717dc0198343864a37d6ef02f6ce60223'}
+  - {seq: 12, filename: KR6i0118_012-T.yaml, hash: 'sha256:a5c02643512f555f5036693d48744827cc3f9dfd1f456db876096f922ac6bce3'}
+  - {seq: 13, filename: KR6i0118_013-T.yaml, hash: 'sha256:7fc3823f65f5fb552ffeeab0aa6b4c27782a99fd3b319a39c3181385d685ba1f'}
+  - {seq: 14, filename: KR6i0118_014-T.yaml, hash: 'sha256:b86173a93f16241fecdb26655693b8587954a2e3ef345e046ec49758ececf484'}
+  - {seq: 15, filename: KR6i0118_015-T.yaml, hash: 'sha256:376a7d5eb4b540030c77eb56ebb9f419190026f0ac470684dfe7b90b9ecc8ed2'}
+  - {seq: 16, filename: KR6i0118_016-T.yaml, hash: 'sha256:19c25a841706452d42a6136617ab7c14e29fb4647562d8d5ccf00cb0fa84346c'}
+  - {seq: 17, filename: KR6i0118_017-T.yaml, hash: 'sha256:b1a3f85ed60a055a3e16802443901c0f22925c24cbf1cd299a6b0f0fb341ad18'}
+  - {seq: 18, filename: KR6i0118_018-T.yaml, hash: 'sha256:47fad58ac151a622e62509f5c2c0f0c05f59a057bfaa877819acd26871170c76'}
+  - {seq: 19, filename: KR6i0118_019-T.yaml, hash: 'sha256:040926655ef96840c7e5cd49e1fadba83c70dca3889c7f4b5440d9d4a05168b6'}
+  - {seq: 20, filename: KR6i0118_020-T.yaml, hash: 'sha256:d86d84733d3db0352837c2758dde9846468347a818951b5d2ea9661942b61e77'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0118_000-T.markers.yaml, hash: 'sha256:37ac59439ea581bd75a4e4609eb9988df897cc0890b4410c3a957de157df8d1f'}
+  - {seq: 1, role: markers, filename: assets/KR6i0118_001-T.markers.yaml, hash: 'sha256:4cc0faf3c9328b54fd7ff8dc80cbfdb1e7bdfc8e9212a980a2e45faa4ced1a5f'}
+  - {seq: 2, role: markers, filename: assets/KR6i0118_002-T.markers.yaml, hash: 'sha256:1a1d6c89eef500f3c9845796b7ce192caba7e7b4e268b3ff146ca0a6bbf9867e'}
+  - {seq: 3, role: markers, filename: assets/KR6i0118_003-T.markers.yaml, hash: 'sha256:ee1993e15ebe71ae1a4cd7e14bbd01bb454af0b02a18a5129c972c10e073a168'}
+  - {seq: 4, role: markers, filename: assets/KR6i0118_004-T.markers.yaml, hash: 'sha256:274eb9e3cba0c0f654bb5cfea128e8ae4078864702096a992fecaf0b68df395d'}
+  - {seq: 5, role: markers, filename: assets/KR6i0118_005-T.markers.yaml, hash: 'sha256:4d417b4de92cf223e1bdb348adbf36c89ee219197035574b3f141d08c815cd92'}
+  - {seq: 6, role: markers, filename: assets/KR6i0118_006-T.markers.yaml, hash: 'sha256:90d7dd5b34ffe2c0d71a05205dd0bda51f733a4f3601e7ae89c227871f7ffff6'}
+  - {seq: 7, role: markers, filename: assets/KR6i0118_007-T.markers.yaml, hash: 'sha256:eae036cbcadeda9d9f024b1c57f956b913353edc602dc38f89513002004ecde1'}
+  - {seq: 8, role: markers, filename: assets/KR6i0118_008-T.markers.yaml, hash: 'sha256:86d5c445ab2d245e8114b6a6c9e636830a3897415b346ec43d1763143f792b05'}
+  - {seq: 9, role: markers, filename: assets/KR6i0118_009-T.markers.yaml, hash: 'sha256:1126111451c05b0e7ad4ac6bd67bb649f7aedb80add6f234797b7f37fc53bf2c'}
+  - {seq: 10, role: markers, filename: assets/KR6i0118_010-T.markers.yaml, hash: 'sha256:4b8e832a0d610aec3a50d33f55ee856a96ca245a6d08ccfb56d0d13cc438946c'}
+  - {seq: 11, role: markers, filename: assets/KR6i0118_011-T.markers.yaml, hash: 'sha256:bad6810ddb3b1b5b7f1d7eacc3382b14695e75dc4a5968383e1a4f88bec9959a'}
+  - {seq: 12, role: markers, filename: assets/KR6i0118_012-T.markers.yaml, hash: 'sha256:c90bffedffc8f381e03454ae2d7ae03d1980650259cd5d04419c88ceba150ae8'}
+  - {seq: 13, role: markers, filename: assets/KR6i0118_013-T.markers.yaml, hash: 'sha256:8bcc973ccf17cefe2e4cf00a3d71f91a171c79e02f9b236c402c190e4bda2585'}
+  - {seq: 14, role: markers, filename: assets/KR6i0118_014-T.markers.yaml, hash: 'sha256:c3d83abdc7f908c988d970b10a4117cee3bb608557cd03c4924c80d870dde7b3'}
+  - {seq: 15, role: markers, filename: assets/KR6i0118_015-T.markers.yaml, hash: 'sha256:2b4d67dee4a04b8544269116344beb46d440eafff3c11c5f326697a05c896dec'}
+  - {seq: 16, role: markers, filename: assets/KR6i0118_016-T.markers.yaml, hash: 'sha256:81d7acf7be63d818b85dbd504eb76c73c1adfa998e306e4d4c76c0f22686f10b'}
+  - {seq: 17, role: markers, filename: assets/KR6i0118_017-T.markers.yaml, hash: 'sha256:b30bf43c98d971ac53ba53ed881e89f50642ec27f6c1394ef8abb828552b8266'}
+  - {seq: 18, role: markers, filename: assets/KR6i0118_018-T.markers.yaml, hash: 'sha256:c43068aabf6b9fe15d795a070f568734e6fe9f590362d3d8cef093af949a099c'}
+  - {seq: 19, role: markers, filename: assets/KR6i0118_019-T.markers.yaml, hash: 'sha256:3f6d798d84f1845acbd0e5b5c5498864dd9b1bed757781f91864821595ea1e6a'}
+  - {seq: 20, role: markers, filename: assets/KR6i0118_020-T.markers.yaml, hash: 'sha256:ce9df39a75960a95a06555d9c8cd1f2c3b3371fb8ee6295069fb0ce3c8abc47e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0118_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3519
+  label: 佛說除蓋障菩薩所問經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0118_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 3556
+  label: 佛說除蓋障菩薩所問經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0118_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 3977
+  label: 佛說除蓋障菩薩所問經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0118_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 4090
+  label: 佛說除蓋障菩薩所問經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0118_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 3363
+  label: 佛說除蓋障菩薩所問經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0118_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 3687
+  label: 佛說除蓋障菩薩所問經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0118_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 4101
+  label: 佛說除蓋障菩薩所問經卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0118_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 4047
+  label: 佛說除蓋障菩薩所問經卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0118_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 4761
+  label: 佛說除蓋障菩薩所問經卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6i0118_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 3472
+  label: 佛說除蓋障菩薩所問經卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6i0118_T_011-juan-start
+    span:
+    - body
+    - 0
+    - 3761
+  label: '佛說除蓋障菩薩所問經卷第十
+
+    一'
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6i0118_T_012-juan-start
+    span:
+    - body
+    - 0
+    - 3548
+  label: '佛說除蓋障菩薩所問經卷第十
+
+    二'
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6i0118_T_013-juan-start
+    span:
+    - body
+    - 0
+    - 3248
+  label: '佛說除蓋障菩薩所問經卷第十
+
+    三'
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6i0118_T_014-juan-start
+    span:
+    - body
+    - 0
+    - 2912
+  label: '佛說除蓋障菩薩所問經卷第十
+
+    四'
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6i0118_T_015-juan-start
+    span:
+    - body
+    - 0
+    - 2939
+  label: '佛說除蓋障菩薩所問經卷第十
+
+    五'
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6i0118_T_016-juan-start
+    span:
+    - body
+    - 0
+    - 2135
+  label: '佛說除蓋障菩薩所問經卷第十
+
+    六'
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6i0118_T_017-juan-start
+    span:
+    - body
+    - 0
+    - 2382
+  label: '佛說除蓋障菩薩所問經卷第十
+
+    七'
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6i0118_T_018-juan-start
+    span:
+    - body
+    - 0
+    - 2829
+  label: '佛說除蓋障菩薩所問經卷第十
+
+    八'
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6i0118_T_019-juan-start
+    span:
+    - body
+    - 0
+    - 2212
+  label: '佛說除蓋障菩薩所問經卷第十
+
+    九'
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6i0118_T_020-juan-start
+    span:
+    - body
+    - 0
+    - 1999
+  label: '佛說除蓋障菩薩所問經卷第二
+
+    十'
+  type: juan
+  level: 1
+hash: sha256:0945b97584271492c881e16170a085e8cb05ad183d6d9dafed003d6941e83a92

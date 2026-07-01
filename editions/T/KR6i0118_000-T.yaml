@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0118/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說除蓋障菩薩所問經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0489.xml
+    old_id: T14n0489
+hash: sha256:6c7105be50341767500090e23ee2ca1997a8202a2b79e50d2a25d56885854565
